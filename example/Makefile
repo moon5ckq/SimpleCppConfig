@@ -12,7 +12,7 @@ $(TARGET): example.cpp
 
 run: $(TARGET)
 	@echo start running `$(TARGET)`
-	@$(TARGET)
+	@./$(TARGET)
 
 clean:
 	rm -f $(TARGET)
