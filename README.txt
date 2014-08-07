@@ -1,0 +1,1 @@
+A Simple C++ header file for reading ini config file.
